@@ -1,0 +1,61 @@
+body{
+    background-color: #848BFF;
+}
+
+h1.rules{
+    border: 2px solid #3b3b3f;
+    box-shadow: 0.5px 3px 5px rgb(17, 17, 17);
+    background-color: #7b82ff;
+    text-align: center;
+}
+.games{
+    margin: 70px auto;
+   justify-content: center;
+   align-items: center;
+    display: flex;
+}
+
+.infoAkhir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    width: 40%;
+    height: 200px;
+}
+.hasil{
+    background-color: #BA84FF;
+}
+.memilih{    
+    background-color: #BA84FF;
+    text-align: center;
+}
+
+.pilihan{
+    box-shadow: 5px 3px 5px rgb(17, 17, 17);
+    background-color: #84C9FF;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    font-size: 5.5vmax;
+}
+.pilihan:hover{
+    border-radius: 7px;
+    cursor: pointer;
+    background-color:#BA84FF;
+    transform: scale(110%);
+}
+
+.pilihan:active{
+    background-color:#6f39b4;
+}
+
+p{
+    font-size: 8vmin;
+}
+
+.memilih{
+    text-align: center;
+}
+
