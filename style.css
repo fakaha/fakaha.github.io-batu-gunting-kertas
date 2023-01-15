@@ -59,3 +59,13 @@ p{
     text-align: center;
 }
 
+footer{
+    font-size: 1.2em;
+    font-family: monospace;
+    color: white;
+    background-color: #3b3b3f;
+    margin-top: 110px;
+    margin-bottom: 0px;
+    padding: 20px;
+    text-align: center;
+}
